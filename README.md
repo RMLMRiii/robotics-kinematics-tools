@@ -7,7 +7,7 @@ A Python toolkit for basic robotics kinematics calculations, including forward p
 - Uses joint angles and link lengths
 - Organized function-based structure
 - Includes sample robot configuration data
-- Separate configuration viewer script
+- Separate robot configuration viewer
 
 ## Technologies Used
 - Python
